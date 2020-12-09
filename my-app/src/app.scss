@@ -1,5 +1,8 @@
-$color: red;
+$backgroundColor: black;
+$color: darkgrey;
 
-button {
-    background-color: $color;
+
+h1, h3, p, button {
+    color: $color;
+    background-color: $backgroundColor;
 }
